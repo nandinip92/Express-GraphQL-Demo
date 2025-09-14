@@ -1,0 +1,18 @@
+{
+  "name": "express-graphql-demo",
+  "version": "1.0.0",
+  "description": "Step - 1\r Following are the steps I used to create a Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.11.0"
+  }
+}
