@@ -204,5 +204,6 @@ mutation {
 }
 ```
 
-**Resources**
+**Resources Link:**
+
 https://medium.com/@ravipatel.it/a-beginners-guide-to-graphql-understanding-the-basics-with-an-example-4c40d84c320a
