@@ -70,7 +70,6 @@ It will take you to GraphiQL.an in-browser playground.
 
 ![Hello Output](/Images/HelloOpt.png)
 
-
 ```graphql
 {
   user(id: "1") {
@@ -206,11 +205,4 @@ mutation {
 ```
 
 **Resources**
-
-backend:
 https://medium.com/@ravipatel.it/a-beginners-guide-to-graphql-understanding-the-basics-with-an-example-4c40d84c320a
-
-https://developer.okta.com/blog/2018/10/11/build-simple-web-app-with-express-react-graphql
-
-mongoose:
-https://www.gcsdesign.com/creating-a-react-site-with-vite-and-graphql/
