@@ -1,1 +1,1 @@
-# GraphQL-ExpressJs-Demo
+# `express-graphql` Demo
